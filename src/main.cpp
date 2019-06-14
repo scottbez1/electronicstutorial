@@ -1,5 +1,7 @@
 #include <Arduino.h>
 
+// See https://paper.dropbox.com/doc/Intro-to-Electronics-reference--AfBd2OEIeJC~TBczoqEbNMRRAg-V2P2FikAP2KFyhsvtbmeq for examples/reference
+
 void setup() {
   pinMode(D4, OUTPUT);
 }
